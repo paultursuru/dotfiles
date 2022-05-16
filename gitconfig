@@ -47,8 +47,8 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = paul.lahana@gmail.com
-	name = paul lahana
+	email = lahana
+	name = paul
 [filter "lfs"]
 	process = git-lfs filter-process
 	required = true
